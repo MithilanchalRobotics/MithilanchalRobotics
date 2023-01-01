@@ -1,7 +1,5 @@
 - 👋 Hi, We are @MithilanchalRobotics
-- 👀 We are interested in developing FREE OPEN-SOURCE solutions that solve problems in our society.
-- 🌱 Founded by Sarvesh Thakur, a Roboticist.
-- 💞️ We're looking to collaborate on new projects which you can check in our repository.
+- 💞️ We're developing intelligent drone solutions.
 - 📫 Check out our projects and ping us at mithilanchalRobotics@gmail.com with your ideas for collaboration.
 
 <!---
